@@ -1,0 +1,7 @@
+   "About me",
+        "Name": "Alexandr Andryushin",
+        "Age" : "37",
+        "Animal quantity" : "1",
+        "Future rewards" : "10000000$"
+
+
